@@ -1,0 +1,6 @@
+com\TourCompany\Backend\api\controllers\TouristsController.class
+com\TourCompany\Backend\business\concretes\TouristManager.class
+com\TourCompany\Backend\BackendApplication.class
+com\TourCompany\Backend\dataAccess\abstracts\TouristDao.class
+com\TourCompany\Backend\entities\concretes\Tourist.class
+com\TourCompany\Backend\business\abstracts\TouristService.class
